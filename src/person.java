@@ -25,6 +25,6 @@ public class person {
        person1.displayInfo();
 
         System.out.println("person2: ");
-        person1.displayInfo();
+        person2.displayInfo();
     }
 }
